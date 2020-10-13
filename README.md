@@ -1,4 +1,12 @@
-# Frangalia
+<p align="center">
+  <img src="https://document-export.canva.com/7Rrhs/DAEKVr7Rrhs/56/thumbnail/0njzRD3iczuInQbOR3c2sA-0001-11941973832.png" />
+</p>
+
+<p align="center">
+  <a href="https://discord.gg/sMFvFsG">
+    <img src="https://img.shields.io/badge/discord-join-7289DA.svg?logo=discord&longCache=true&style=flat" />
+  </a>
+</p>
 
 ## Description
 
