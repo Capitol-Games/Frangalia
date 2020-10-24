@@ -1,4 +1,5 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Realm of Frangalia","order":1,"parentId":0,"scrollX":3705.6,"scrollY":3787.7999999999997}
+{"id":1,"expanded":true,"name":"Realm of Frangalia","order":1,"parentId":0,"scrollX":3676.7999999999997,"scrollY":4072.7999999999997},
+{"id":2,"expanded":false,"name":"Test Map","order":2,"parentId":0,"scrollX":832,"scrollY":640}
 ]
