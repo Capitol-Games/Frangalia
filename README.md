@@ -8,7 +8,11 @@
   </a>
 </p>
 
-## Description
+## Check the Wiki
+
+The [Wiki](https://github.com/Capitol-Games/Frangalia/wiki) has all info about the world of Frangalia.
+
+## Game Description
 
 At the beginning of time, so it is told by the tablet of Vesinius, the gods created the four elements of earth, water, wind, and fire. It was the god Keras who conceived man, animals, monsters, and all living things, with kingship the highest in the universal order. Thus, great rulers came to be in the ancient cities in the realm of Frangalia. During this time it is said Keras lived among them as a great wizard, guiding his creations to prosperity.
 
