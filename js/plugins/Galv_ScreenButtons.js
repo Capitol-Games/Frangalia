@@ -338,6 +338,7 @@ Sprite_GButton.prototype.processTouch = function() {
 				// while pressed
 				if (this._btn.action[1] === 'shift') {
 					// activate run (change game speed)
+					Game_System.prototype.disableMenu()
 					console.log('pressing shift key')
 				}
 				this.callPressHandler();
@@ -349,7 +350,8 @@ Sprite_GButton.prototype.processTouch = function() {
 			this._touching = false;
 		}
     } else {
-        this._touching = false;
+		this._touching = false;
+		Game_System.prototype.enableMenu()
 		if (this._wasTouching) {
 			this.callClickHandler();
 			this._wasTouching = false;
