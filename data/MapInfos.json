@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"expanded":true,"name":"Overworld","order":30,"parentId":0,"scrollX":3519.6,"scrollY":3819.6},
-{"id":2,"expanded":false,"name":"Colchester","order":14,"parentId":0,"scrollX":828,"scrollY":949.1999999999999},
+{"id":2,"expanded":false,"name":"Colchester","order":14,"parentId":0,"scrollX":828,"scrollY":518.4},
 {"id":3,"expanded":false,"name":"The Old Forest","order":6,"parentId":0,"scrollX":1842,"scrollY":865.1999999999999},
 {"id":4,"expanded":false,"name":"The Carren-Downs","order":8,"parentId":0,"scrollX":1509.6,"scrollY":978},
 {"id":5,"expanded":false,"name":"Foxtail Farm","order":2,"parentId":0,"scrollX":1035.6,"scrollY":865.1999999999999},
@@ -28,6 +28,6 @@ null,
 {"id":26,"expanded":false,"name":"Colchester Guardhouse - Basement","order":19,"parentId":21,"scrollX":832,"scrollY":640},
 {"id":27,"expanded":false,"name":"Colchester Castle - Fl 1","order":23,"parentId":2,"scrollX":1047,"scrollY":660},
 {"id":28,"expanded":false,"name":"Crestspire Ruins","order":29,"parentId":0,"scrollX":852,"scrollY":729.6},
-{"id":29,"expanded":false,"name":"Blemmingfield Ridge","order":25,"parentId":0,"scrollX":828,"scrollY":921.5999999999999},
+{"id":29,"expanded":false,"name":"Blemmingfield Ridge","order":25,"parentId":0,"scrollX":828,"scrollY":518.4},
 {"id":30,"expanded":false,"name":"West Colchester Bridge","order":26,"parentId":0,"scrollX":832,"scrollY":640}
 ]
