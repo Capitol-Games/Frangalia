@@ -4,7 +4,7 @@ null,
 {"id":2,"expanded":false,"name":"Parallax Test","order":37,"parentId":35,"scrollX":831.5999999999999,"scrollY":639.6},
 {"id":3,"expanded":false,"name":"The Old Forest","order":7,"parentId":0,"scrollX":2540.4,"scrollY":1207.2},
 {"id":4,"expanded":false,"name":"Monkwood Highlands","order":9,"parentId":0,"scrollX":1672.8,"scrollY":1209.6},
-{"id":5,"expanded":false,"name":"Foxtail Farm","order":3,"parentId":0,"scrollX":828,"scrollY":518.4},
+{"id":5,"expanded":false,"name":"Foxtail Farm","order":3,"parentId":0,"scrollX":828,"scrollY":1262.3999999999999},
 {"id":6,"expanded":false,"name":"Ashenford","order":11,"parentId":0,"scrollX":828,"scrollY":672},
 {"id":7,"expanded":false,"name":"South Colchester Bridge","order":25,"parentId":0,"scrollX":1092,"scrollY":1488},
 {"id":8,"expanded":false,"name":"Ashenford Convent","order":12,"parentId":6,"scrollX":837.5999999999999,"scrollY":528},
@@ -36,5 +36,5 @@ null,
 {"id":34,"expanded":false,"name":"Ice Cave","order":35,"parentId":35,"scrollX":1035,"scrollY":898.5},
 {"id":35,"expanded":false,"name":"Ideas","order":34,"parentId":0,"scrollX":1140,"scrollY":729.6},
 {"id":36,"expanded":false,"name":"Lava Cave","order":36,"parentId":35,"scrollX":837.5999999999999,"scrollY":528},
-{"id":37,"expanded":false,"name":"Colchester","order":15,"parentId":0,"scrollX":2196,"scrollY":1488}
+{"id":37,"expanded":false,"name":"Colchester","order":15,"parentId":0,"scrollX":1776,"scrollY":1332}
 ]
