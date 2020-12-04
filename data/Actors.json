@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"battlerName":"HeroesOfFrangalia","characterIndex":0,"characterName":"HeroesOfFrangalia","classId":1,"equips":[1,0,2,3,0],"faceIndex":0,"faceName":"HeroesOfFrangalia","traits":[],"initialLevel":1,"maxLevel":99,"name":"René","nickname":"","note":"","profile":""},
+{"id":1,"battlerName":"Rene","characterIndex":0,"characterName":"heroes","classId":1,"equips":[1,0,2,3,0],"faceIndex":2,"faceName":"Rene","traits":[],"initialLevel":1,"maxLevel":99,"name":"René","nickname":"","note":"","profile":""},
 {"id":2,"battlerName":"Salona","characterIndex":1,"characterName":"HeroesOfFrangalia","classId":3,"equips":[0,0,2,3,4],"faceIndex":1,"faceName":"HeroesOfFrangalia","traits":[],"initialLevel":1,"maxLevel":99,"name":"Salona","nickname":"","note":"","profile":""},
 {"id":3,"battlerName":"","characterIndex":2,"characterName":"HeroesOfFrangalia","classId":5,"equips":[0,0,2,3,4],"faceIndex":2,"faceName":"HeroesOfFrangalia","traits":[],"initialLevel":1,"maxLevel":99,"name":"Braern","nickname":"","note":"","profile":""},
 {"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
