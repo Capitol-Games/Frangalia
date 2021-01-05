@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Overworld","order":33,"parentId":0,"scrollX":3619.2,"scrollY":3902.3999999999996},
+{"id":1,"expanded":true,"name":"Overworld","order":33,"parentId":0,"scrollX":2854,"scrollY":3902},
 {"id":2,"expanded":false,"name":"Parallax Test","order":37,"parentId":35,"scrollX":832,"scrollY":640},
 {"id":3,"expanded":false,"name":"The Old Forest","order":7,"parentId":0,"scrollX":2540.4,"scrollY":1207.2},
 {"id":4,"expanded":false,"name":"Monkwood Highlands","order":9,"parentId":0,"scrollX":1659.6,"scrollY":555.6},
