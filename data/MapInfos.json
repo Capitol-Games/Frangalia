@@ -36,6 +36,6 @@ null,
 {"id":34,"expanded":false,"name":"Ice Cave","order":35,"parentId":35,"scrollX":1965.6,"scrollY":1144.8},
 {"id":35,"expanded":false,"name":"Ideas","order":34,"parentId":0,"scrollX":1965.6,"scrollY":1144.8},
 {"id":36,"expanded":false,"name":"Lava Cave","order":36,"parentId":35,"scrollX":1965.6,"scrollY":1144.8},
-{"id":37,"expanded":true,"name":"Colchester","order":15,"parentId":0,"scrollX":1633.1999999999998,"scrollY":755.4},
+{"id":37,"expanded":false,"name":"Colchester","order":15,"parentId":0,"scrollX":1633.1999999999998,"scrollY":755.4},
 {"id":38,"expanded":false,"name":"Underworld","order":38,"parentId":0,"scrollX":1404,"scrollY":768.8571428571428}
 ]
