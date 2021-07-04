@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Overworld","order":35,"parentId":0,"scrollX":1946.3999999999999,"scrollY":1053.6},
+{"id":1,"expanded":true,"name":"Overworld","order":35,"parentId":0,"scrollX":1946.3999999999999,"scrollY":3076.7999999999997},
 {"id":2,"expanded":false,"name":"Smuggler's Cave","order":26,"parentId":37,"scrollX":1946.3999999999999,"scrollY":1072.8},
 {"id":3,"expanded":false,"name":"The Old Forest","order":7,"parentId":0,"scrollX":1946.3999999999999,"scrollY":1053.6},
 {"id":4,"expanded":true,"name":"Monkwood Highlands","order":9,"parentId":0,"scrollX":1965.6,"scrollY":1072.8},
